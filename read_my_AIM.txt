@@ -1,0 +1,6 @@
+-----------------------------------------------------------
+a_TINY_step : small. easy. simple. BREAK.
+-----------------------------------------------------------
+crafting a single file README.md which inspires my self in order to solve problems;
+by providing insights that work with respect to problems-environment my self is in!
+

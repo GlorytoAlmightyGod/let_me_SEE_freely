@@ -12,7 +12,7 @@ typedef long long ll;
 void please_print_the_array(int[], int, int);
 int maximum_value_giver(int, int);
 int minimum_value_giver(int, int);
-int halving_search(int, int*, int, int);
+int halfing_search(int, int*, int, int);
 
 
 
@@ -64,7 +64,7 @@ int minimum_value_giver(int first_number, int second_number){
     }
 }
 
-int halving_search(int key, int my_sorted_arr[], int first, int last){
+int halfing_search(int key, int my_sorted_arr[], int first, int last){
     if(last==first){
         return last;
     }
@@ -79,10 +79,10 @@ int halving_search(int key, int my_sorted_arr[], int first, int last){
     else{
         int middle = (first+last)/2;
         if(my_sorted_arr[middle]<=key){
-            return halving_search(key,my_sorted_arr,middle,last);
+            return halfing_search(key,my_sorted_arr,middle,last);
         }
         else{
-            return halving_search(key,my_sorted_arr,first,middle);
+            return halfing_search(key,my_sorted_arr,first,middle);
         }
     }
 }
