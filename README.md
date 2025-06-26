@@ -1,6 +1,12 @@
-### it is clear if and only if i can speak it out loud in a way that originates from a self-evident root.
+### sharpening the pencil before i can write.
+i am wrong. in many ways.
+
 IF i do not read the README.md;
 THEN something bad may happen?
+
+it is clear if and only if i can speak it out loud in a way that originates from a self-evident root.
+
+
 what seems like the problem worth fixing is NOT the real problem at play.
 the real problem is creating my own future self such that it is able to fix certain problems with ease.
 
@@ -73,3 +79,9 @@ do i want it to execute instructions aimlessly?
 IF the machine executes various processes in a rule-based ordered way,
 THEN many problems can be fixed without making it do MUCH things.
 less conditions, less instructions, clear instructions, less exceptions.
+
+
+many things are good enough if known once BUT 
+do i not need to give myself the freedom to know it 3 times???
+from having not a single clue with a fearfull attitude surrounding it's existence to
+i myself will say "what else is there in it?" how much energy can it take from me after all?
