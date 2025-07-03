@@ -1,30 +1,30 @@
-### sharpening the pencil before i can write.
-good things just take time. BUT not that much!
-i am being wrong; in many ways.
+### not required to sharpen the pencil?
+
+am i incapable of realizing a desire through a plan in Reality?
+is not "INTERESTING" interesting key word with respect to finer details?
 
 IF i do not read the README.md;
 THEN something bad may happen?
+i am being wrong; in many ways.
+improving the memory of profit/loss is not known to me?
+it is clear if and only if i can speak it out loud in a way that originates from a self-evident root.
 
-many things are good enough if known once BUT 
 do i not need to give myself the freedom to know it 3 times???
-from having not a single clue with a fearfull attitude surrounding it's existence to
-i myself will say "what else is there in it?" how much energy can it take from me after all?
-
 am i fearing not being able to stop myself from fearing?
 is the RE-FRESHING of the self aimless?
 
-improving the memory of profit/loss is not known to me?
-it is clear if and only if i can speak it out loud in a way that originates from a self-evident root.
+from having not a single clue with a fearfull attitude surrounding it's existence to i myself will say "what else is there in it?".
+how much energy can it take from me after all?
+good things just take time. BUT not that much!
+
+
 
 
 i like to think that i am the knower of that which is worth knowing,
 i like to think that i am the doer of that which is worth doing,
 i like to think that i am worthy of all wonderfully loving things!
 
-want to attain freedom from a belief in the self not being able to realize a desire?
-in the need of a_fix_that_silences_the_voice_of_doubts?
-is it about immersing myself in the problems-environment?
-"INTERESTING" is the key word with respect to finer details!
+
 
 is that_which_i_want_to_be NOT that_which_is_worthy_of_being_known_by_the_self_in_Reality?
 IF the problem is fixed by the self,
@@ -60,15 +60,11 @@ PROOF(the_why_it_MUST_be_true) is what rules; use examples to eradicate blindnes
 
 dealing with an AIM that i view as significant?
     • take the time to build a_small_real_specific_easy_imperfect_AIM.
-    • have a simple dream of realizing the_AIM.
+    • have a simple plan in order to realize the_AIM.
     • repeat.
 
 
 
-IF the chosen way of investigation in a problems-environment is NOT good enough,
-THEN will i not RE-DOUBT my own correct conclusions with respect to exceptions?
-am i aware of all the mistakes i am prone to make?
-will i not MISS-TAKE right for wrong?
 
 am i NOT the friend of "machine"?
 do i want it to execute instructions aimlessly?
@@ -76,7 +72,20 @@ IF the machine executes various processes in a rule-based ordered way;
 THEN many problems can be fixed without making it do MUCH things.
 less conditions, less instructions, clear instructions, less exceptions.
 
+(i am afraid of knowing what i want?
+am i afraid of knowing that i am incapable of knowing what i want?
+am i afraid of finding out that it is not doable?
+i am afraid of not being able to find what i missed?
+i am afraid of knowing that there is something worth knowing in it?
+i am afraid of coming to know of more than 1 AIMs?
+i am afraid of failing to find that which i assume to be a certain way but is NOT?)
+
+i can not have a belief in "I (ALLREADY) KNOW THIS!!!"?
+
 IF i do not know what i want to be done;
 THEN is it NOT possible for me to know what i want to be done?
 IF i do not know how to do what i want to be done;
 THEN is it NOT possible for me to know how to do it? is it NOT possible for me to do it?
+
+just because i have a certain belief of "i can not possibly do that", i proceed to think in a different way!!
+i do not even know what i am trying to do! but i force myself to do it and also punish myself if failure is encountered.

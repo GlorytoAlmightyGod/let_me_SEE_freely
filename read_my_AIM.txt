@@ -1,6 +1,8 @@
 -----------------------------------------------------------
 a_TINY_step : small. easy. simple. BREAK.
 -----------------------------------------------------------
-crafting a single file README.md which inspires my self in order to solve problems;
-by providing insights that work with respect to problems-environment my self is in!
+ -  crafting a single file README.md which inspires my self in order to solve problems;
+    by providing insights that work with respect to problems-environment my self is in!
 
+ -  making common_mistakes_commit consumable as i lead my life!
+   (A) how to classify the mistakes i commit such that, i become aware of "significant" mistakes i am prone to make which once known do not come to be?

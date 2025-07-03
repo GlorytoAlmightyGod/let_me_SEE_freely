@@ -1,4 +1,6 @@
-with_respect_to_mistakes:
+### by becoming aware of my mistake, have i NOT ceased to commit it?
+
+**with_respect_to_mistakes**:
     why do i seem to know the truth about my own mistakes BUT i do not really own it? i do not know.
     why do i have a belief in the existence of "silly" mistakes, as something not worth my attention? i do not know.
     why do i not know how to find out the mistake i must be making? i do not know.
@@ -8,14 +10,21 @@ with_respect_to_mistakes:
     why do i lose all hope in myself IF i do the perception of my self doing a mistake in Reality? i do not know.
     why do i put my hands near my mouth when i come to know of my mistakes? i do not know.
     why do i think these are not even mistakes? i do not know.
-    why do i have a belief in "it is inevitable for me to make these mistakes, there is nothing i can do about it and there is nothing wrong in it!"? i do not know.
+    why do i have a belief in "it is inevitable for me to make these mistakes, nothing wrong in it and nothing i can do about it."? i do not know.
     why do i feel the urge to leave my resting posture and do something, once i become aware of my mistakes? i do not know.
 
-with_respect_to_playing_in_a_problems_environment:
+**with_respect_to_playing_in_a_problems_environment**:
     why do i focus on low priority work-items while high priority work-items are being completely ignored? i do not know.
+    why do i eradicate all of my work in frustration instead of simply taking a break? i do not know.
+    why do i consider failing at fixing "hard" problems acceptable? i do not know.
+    why do i not give up the way in which i can NOT realize my desire? i do not know.
+    why do i give up the way in which i can realize my desire? i do not know.
+    editing_texts:
+        why do i keep updating the beginning of a text without properly knowing what i want the text to do? i do not know
     profit_AND_loss:
         why do i not see the INSANITY in the way i apply my knowledge in order to get a problem fixed in Reality? i do not know.
-        why do i not think "though i seem logical, OF COURSE i am celebrating in all of the insane ways possible in my heart!"? i do not know.
+        why do i not know "why that which seems profitable seems profitable? with that which seems profitable is not really profitable? i am not rationalizing here!!"? i do not know
+        why do i not think "i seem logical but OF COURSE i am celebrating in all of the insane ways possible in my heart!"? i do not know.
         why do i think "IF i can complete this THEN i will be able to share that good news with my Mother and prove it wrong that i am worthy of insults..."? i do not know.
         why do i make myself say "not now" by doing automated suggestions to engage in a profitable pursuit and then fear i may not feel like doing it? i do not know.
         why do i think "IF i share what has been done profitably by me, THEN i will no longer be able to continue doing it."? i do not know.
@@ -30,7 +39,7 @@ with_respect_to_playing_in_a_problems_environment:
         why do i hope to complete it within a flashy flash of a moment? i do not know.
         why do i not seek to delight in peacefull WAITING? i do not know.
     belief:
-        why do i have a belief in "i CAN NEVER work on multiple AIMs at any moment. or else i may not be able to complete ANY of my AIMs."? i do not know
+        why do i have a belief in "i CAN NEVER work on multiple AIMs at any moment. or else i may not be able to complete ANY of my AIMs"? i do not know.
         why do i think "i do not know how to do it, SOOO i simply can not do it!"? i do not know.
         why do i not desire to use METAPHORS in order to transmit ideas clearly? i do not know.
         why do i have a belief in "i can not do ANY thing with respect to a given feeling in real-time"? i do not know.
@@ -43,7 +52,7 @@ with_respect_to_playing_in_a_problems_environment:
         why do i have a belief in "nothing comes for free. no pain, no gain."? i do not know.
     aim:
         why on Earth do i entertain unrealistic AIMs while ignoring the AIM to gift myself something simple and small? i do not know.
-        why do i proceed to realize a dream before thinking it through? i do not know.
+        why do i proceed to realize a aim before thinking it through? i do not know.
         why do i not seek to merge the gap between painfully real and the wonderfully ideal? i do not know.
         why do i choose either the real or the ideal? i do not know.
     why do i celebrate once i do the perception of i_did_that_right_thing? i do not know.
@@ -71,6 +80,7 @@ with_respect_to_playing_in_a_problems_environment:
     why do i classify less than what is enough? i do not know.
 
 with_respect_to_innocent_beings:
+    why do i carelessly suspect innocent beings for violating mine-notmine policy with respect to that which is mine? i do not know.
     why do i proceed to TEACH while delighting in the sacred-formula "look at how it was done by me!"? i do not know.
     why do i like to fearfully figure out, what innocent beings are thinking about me? i do not know.
     why do i care so much about how my doings are being done the perception of by innocent beings? i do not know.
@@ -92,7 +102,6 @@ with_respect_to_my_own_self:
 
 
 WHY AM I NOT EXCITED TO KNOW OF THE FOLLOWING?
-    why do i fear not being able to figure out a better way of using the DATA-STRUCTURES? i do not know.
     why do i not think "so, it can not be done in THAT way." instead of "it simply can not be done!"? i do not know.
     why do i think "something other than proper preparation is required to realize my desire."? i do not know.
     why do i not even want to ask the why questions; no desire to know the why? i do not know.
@@ -200,3 +209,4 @@ WHY AM I NOT EXCITED TO KNOW OF THE FOLLOWING?
     why do i wish to change things too early? i do not know.
     why do i hope in vain as "the worst possible thing SHOULD NOT happen"? i do not know.
     why do i misname things such that these things lose meaning; a creation depending on truths_at_play is termed as LOGIC? i do not know.
+    why do i miss-take that_which_need_not_be_true to be that_which_must_be_true? i do not know.
