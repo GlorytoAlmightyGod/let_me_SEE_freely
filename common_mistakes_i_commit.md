@@ -1,4 +1,4 @@
-### by becoming aware of my mistake, have i NOT ceased to commit it?
+# by becoming aware of my mistake, have i NOT ceased to commit it?
 
 **with_respect_to_mistakes**:
     why do i seem to know the truth about my own mistakes BUT i do not really own it? i do not know.
@@ -19,42 +19,39 @@
     why do i consider failing at fixing "hard" problems acceptable? i do not know.
     why do i not give up the way in which i can NOT realize my desire? i do not know.
     why do i give up the way in which i can realize my desire? i do not know.
-    editing_texts:
-        why do i keep updating the beginning of a text without properly knowing what i want the text to do? i do not know
-    profit_AND_loss:
-        why do i not see the INSANITY in the way i apply my knowledge in order to get a problem fixed in Reality? i do not know.
-        why do i not know "why that which seems profitable seems profitable? with that which seems profitable is not really profitable? i am not rationalizing here!!"? i do not know
-        why do i not think "i seem logical but OF COURSE i am celebrating in all of the insane ways possible in my heart!"? i do not know.
-        why do i think "IF i can complete this THEN i will be able to share that good news with my Mother and prove it wrong that i am worthy of insults..."? i do not know.
-        why do i make myself say "not now" by doing automated suggestions to engage in a profitable pursuit and then fear i may not feel like doing it? i do not know.
-        why do i think "IF i share what has been done profitably by me, THEN i will no longer be able to continue doing it."? i do not know.
-        why do i fear doing something profitable to my own self? i do not know.
-        why do i perform "profit" perception in real-time; it is not like i think such a behaviour is profitable? i do not know.
-        why do i plead the system "please be correct" after having done my work-item? i do not know.
-        why do i try to figure out "when will this end? WHEN will i get this done?" instead of focusing on the work-item in front of me? i do not know.
-        why do i scream "BATIKINCHAARU" upon me seeing correct answer status for a Multiple Choice Question after submitting my answer? i do not know.
-        why do i fear feeling good with respect to progress? i do not know.
-        why do i want things to be done NOW NOW NOW? i do not know.
-        why do i try to do it all at once? i do not know.
-        why do i hope to complete it within a flashy flash of a moment? i do not know.
-        why do i not seek to delight in peacefull WAITING? i do not know.
-    belief:
-        why do i have a belief in "i CAN NEVER work on multiple AIMs at any moment. or else i may not be able to complete ANY of my AIMs"? i do not know.
-        why do i think "i do not know how to do it, SOOO i simply can not do it!"? i do not know.
-        why do i not desire to use METAPHORS in order to transmit ideas clearly? i do not know.
-        why do i have a belief in "i can not do ANY thing with respect to a given feeling in real-time"? i do not know.
-        why do i have a belief in "the answer to the why qestion i have come to ask is unknowable!"? i do not know.
-        why do i confuse that which is worth focusing on with that which is not worth focusing on? i do not know.
-        why do i confuse that which is worth not focusing on with that which is worth focusing on? i do not know.
-        why do i not mix guilty shame and "i will never learn" hopelessness with a laugh and an instruction to my conscience to shut up while i speak the realer words? i do not know.
-        why do i have a belief in "i can not possibly learn any more!"? i do not know.
-        why do i obsess over titles given unto me? i do not know.
-        why do i have a belief in "nothing comes for free. no pain, no gain."? i do not know.
-    aim:
-        why on Earth do i entertain unrealistic AIMs while ignoring the AIM to gift myself something simple and small? i do not know.
-        why do i proceed to realize a aim before thinking it through? i do not know.
-        why do i not seek to merge the gap between painfully real and the wonderfully ideal? i do not know.
-        why do i choose either the real or the ideal? i do not know.
+    why do i keep updating the beginning of a text without properly knowing what i want the text to do? i do not know.
+    why do i not see the INSANITY in the way i apply my knowledge in order to get a problem fixed in Reality? i do not know.
+    why do i not know "why that which seems profitable seems profitable? with that which seems profitable is not really profitable? i am not rationalizing here!!"? i do not know
+    why do i not think "i seem logical but OF COURSE i am celebrating in all of the insane ways possible in my heart!"? i do not know.
+    why do i think "IF i can complete this THEN i will be able to share that good news with my Mother and prove it wrong that i am worthy of insults..."? i do not know.
+    why do i make myself say "not now" by doing automated suggestions to engage in a profitable pursuit and then fear i may not feel like doing it? i do not know.
+    why do i think "IF i share what has been done profitably by me, THEN i will no longer be able to continue doing it."? i do not know.
+    why do i fear doing something profitable to my own self? i do not know.
+    why do i perform "profit" perception in real-time; it is not like i think such a behaviour is profitable? i do not know.
+    why do i plead the system "please be correct" after having done my work-item? i do not know.
+    why do i try to figure out "when will this end? WHEN will i get this done?" instead of focusing on the work-item in front of me? i do not know.
+    why do i scream "BATIKINCHAARU" upon me seeing correct answer status for a Multiple Choice Question after submitting my answer? i do not know.
+    why do i fear feeling good with respect to progress? i do not know.
+    why do i want things to be done NOW NOW NOW? i do not know.
+    why do i try to do it all at once? i do not know.
+    why do i hope to complete it within a flashy flash of a moment? i do not know.
+    why do i not seek to delight in peacefull WAITING? i do not know.
+    why do i have a belief in "i CAN NEVER work on multiple AIMs at any moment. or else i may not be able to complete ANY of my AIMs"? i do not know.
+    why do i think "i do not know how to do it, SOOO i simply can not do it!"? i do not know.
+    why do i not desire to use METAPHORS in order to transmit ideas clearly? i do not know.
+    why do i have a belief in "i can not do ANY thing with respect to a given feeling in real-time"? i do not know.
+    why do i have a belief in "the answer to the why qestion i have come to ask is unknowable!"? i do not know.
+    why do i confuse that which is worth focusing on with that which is not worth focusing on? i do not know.
+    why do i confuse that which is worth not focusing on with that which is worth focusing on? i do not know.
+    why do i not mix guilty shame and "i will never learn" hopelessness with a laugh and an instruction to my conscience to shut up while i speak the realer words? i do not know.
+    why do i have a belief in "i can not possibly learn any more!"? i do not know.
+    why do i obsess over titles given unto me? i do not know.
+    why do i have a belief in "nothing comes for free. no pain, no gain."? i do not know.
+    why on Earth do i entertain unrealistic AIMs while ignoring the AIM to gift myself something simple and small? i do not know.
+    why do i proceed to realize a aim before thinking it through? i do not know.
+    why do i not seek to merge the gap between painfully real and the wonderfully ideal? i do not know.
+    why do i choose either the real or the ideal? i do not know.
+    why do i worship my AIMs? i do not know.
     why do i celebrate once i do the perception of i_did_that_right_thing? i do not know.
     why do i obsess over titles given unto me? i do not know.
     why do i fear investigating "how was it solved through me in Reality?"? i do not know.
@@ -192,9 +189,9 @@ WHY AM I NOT EXCITED TO KNOW OF THE FOLLOWING?
     why do i not respond to "oh my God! what should i do now? i have no clue... IF i do not distract myself quickly THEN i may end up hating myself." with calm based on what i do know? i do not know.
     why do i come to have a belief in "i need to do that unnecessary preparation. i fear being exposed."? i do not know.
     why do i stop doing the-next-action-step IF i know doing it is good for me; which i was doing allready? i do not know.
-    why do i think a certain thing is "HARD"; in codeforces A < B < C < D < E < F < G < H <I < K < L < M < N < O? i do not know.
+    why do i think a certain thing is "HARD"; in codeforces A < B < C < D < E < F < G < H < I < K < L < M < N < O? i do not know.
     why do i think "IF i sit at a single place and become bored, THEN i will not be able to work again from that same place."? i do not know.
-    why do i assume things that need not be same as things that must be same? i do not know.
+    why do i assume things_that_need_not_be_same as things_that_must_be_same? i do not know.
     why do i conveniently assume "i have completed that work-item, without having completed it?"? i do not know.
     why do i fear the secret truths that i got the opportunity to find being exposed to innocent beings? i do not know.
     why do i take simple truths lightly only to find out that i can not grasp greater truths IF simple truths are not known properly? i do not know.
