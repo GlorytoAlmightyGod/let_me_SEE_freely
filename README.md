@@ -1,15 +1,25 @@
 # not required to sharpen the pencil?
 
+do i need to bombard my tiny self with multitudes of aims in the twinkling of an eye?
+COME ON i have just started! please provide me freedom with respect to Time.
+am i bound to witness each aim of mine perish right in front of me?
+is not **interesting** a key word with respect to the door of finer details?
+am i incapable of realizing a desire through a carefully created plan?
+
 IF the self is capable of doing the perception of "how to get it done?";
 THEN it is NOT fun?
 
 enjoying NOT writing on a piece of _paper_?
 
+
+is the __re-freshing__ of the self aimless?
+drinking a sip of water is bereft of joy?
+
 do i NOT require hope in the right way?
     that_which_seems_impossible_to_be_done in_a_certain_way can NOT be that_which_can_be_done_with_ease in_a_certain_way?
     what seems like the problem worth fixing is NOT the real problem at play?
     is NOT the real problem creating my own future self such that it is able to fix certain problems with ease?
-    2 sources of problems can add up and give me 0 sources of problems.
+    2 problems can add up and give me 0 problems.
     fixing 1 problem can fix MANY problem?
     creating 1 problem can NOT fix MANY problems?
 
@@ -29,12 +39,6 @@ IF the_right_knowledge can help the self fix the_problem_in_Reality easily;
 THEN is not the realer problem to help the self gain access to the_right_knowledge?
 
 
-
-do i need to bombard my tiny self with multitudes of aims in the twinkling of an eye?
-COME ON i have just started! please provide me freedom with respect to Time.
-am i bound to witness each aim of mine perish right in front of me?
-is not **interesting** a key word with respect to the door of finer details?
-am i incapable of realizing a desire through a carefully created plan?
 
 
 IF i think it is NOT simple,
@@ -75,9 +79,6 @@ dealing with AIM that is "significant"?
     • create a simple plan in order to realize the_AIM.
     • complete the plan.
 
-is the **re-freshing** of the self aimless?
-drinking a sip of water is bereft of joy?
-
 
 a brilliant question is NOT a stupid question?
 
@@ -88,16 +89,18 @@ a brilliant question is NOT a stupid question?
 
 
 **fun_attitudes:**
-    what a weird Creation?    
+    WOW!!! what a weird Creation.
     it is a matter of great good fortune to come to experience this root cause finding!
     the "harder" the problem, greater the opportunity to learn. learning is fun!!!
     failure is a good news. why? because i get to that i missed to know that_which_is_worth_knowing.
     i am getting to know more and more of that_which_is_worth_knowing.
-    my desire is just to know the answer to "why i can NOT possibly get the problem fixed?"; it is NOT to get the problem fixed.
+    my desire is just to know the answer to "why can i NOT get the problem fixed?"; it is NOT to get the problem fixed.
     why do i have a certain belief in it being NOT possible to be done by me?
     can i NOT do ANY thing with respect to the usefull things i have had the opportunity to create?
     what is so genius, so special about me to have that problem fixed in Reality? it is all just a delusion.
     am i NOT the friend of "machine"? do i want it to execute instructions aimlessly?
+    i still do not know the answer of the_WHY_question!
+    why to guess that_which_is_worth_doing when i can know that_which_is_worth_doing easily?
 
 **beliefs_i_cherish:**
     IF i do NOT know a_certain_thing;
@@ -119,10 +122,15 @@ a brilliant question is NOT a stupid question?
     IF i do not know what i want to be done;
     THEN is it NOT possible for me to know what i want to be done?
 
-    IF i do not know how to do what i want to be done;
+    IF i do not know how to do a_certain_thing_done in Reality;
+    THEN is it NOT possible for me to do it?
+    IF i do not know how to do a_certain_thing_done in Reality;
     THEN is it NOT possible for me to know how to do it?
     IF i know how to get a_certain_thing_done in Reality;
     THEN is it NOT possible for me to do it?
+    IF i know how to get a_certain_thing_done in Reality;
+    THEN have i allready done it?
+
 
 **real_time_perceptions_in_problems_environment:**
     from having not a single clue with a fearfull attitude surrounding it's existence to i myself will say "what else is there in it?".
@@ -141,7 +149,10 @@ a brilliant question is NOT a stupid question?
     many problems can be fixed without making my friendly machine do MUCH things; less conditions, less instructions, clear instructions, less exceptions.
 
 
-**glorious_doings_of_my_genius_self:**
+**sad_truths_with_respect_to_my_self:**
+    i equate let_me_try_to_know with let_me_Father_Up_Can_Know.
+    i know that i am doing something wrong. i know what i am doing wrong. i know that i can fix it easily. i do not fix it. i lose faith in something about my own self for some strange reason... 
+    the moment i look at an unknown thing, i develop certain beliefs with respect to it. not for good reasons...
     (i am afraid of knowing what i want?
     am i afraid of knowing that i am incapable of knowing what i want?
     am i afraid of finding out that it is not doable?
