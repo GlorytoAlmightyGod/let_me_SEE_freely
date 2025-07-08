@@ -5,10 +5,40 @@ typedef long long int lli;
 
 #define VERY_HUGE_NUMBER 1000000
 
-void please_print_the_array(int[], int, int);
-int maximum_value_giver(int, int);
-int minimum_value_giver(int, int);
+int minimum_of(int first_number, int second_number){
+    if(first_number<second_number){
+        return first_number;
+    }
+    else{
+        return second_number;
+    }
+}
+
+int maximum_of(int first_number, int second_number){
+    if(first_number>second_number){
+        return first_number;
+    }
+    else{
+        return second_number;
+    }
+}
+
+int highest_common_factor_of(int a, int b) {
+    if (b==0) {
+        return a;
+    }
+    else{
+        return highest_common_factor_of(b, a % b);
+    }
+}
+
+int least_common_multiple_of(int a, int b) {
+    return (a * b) / highest_common_factor_of(a, b);
+}
+
+
 int halfing_search(int, int*, int, int);
+void please_print_the_array(int[], int, int);
 
 
 
@@ -32,32 +62,6 @@ int main(void) {
         cout<<endl;
     }
     return 0;
-}
-
-
-void please_print_the_array(int data[], int starting_index, int ending_index) {
-    for(int i = starting_index; i <= ending_index; i++) {
-        cout << data[i] << " ";
-    }
-    cout<<endl;
-}
-
-int maximum_value_giver(int first_number, int second_number){
-    if(first_number>second_number){
-        return first_number;
-    }
-    else{
-        return second_number;
-    }
-}
-
-int minimum_value_giver(int first_number, int second_number){
-    if(first_number<second_number){
-        return first_number;
-    }
-    else{
-        return second_number;
-    }
 }
 
 int halfing_search(int key, int my_sorted_arr[], int first, int last){
@@ -91,4 +95,11 @@ int halfing_search(int key, int my_sorted_arr[], int first, int last){
             return halfing_search(key,my_sorted_arr,first,middle);
         }
     }
+}
+
+void please_print_the_array(int data[], int starting_index, int ending_index) {
+    for(int i = starting_index; i <= ending_index; i++) {
+        cout << data[i] << " ";
+    }
+    cout<<endl;
 }
