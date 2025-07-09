@@ -1,13 +1,16 @@
 # not required to sharpen the pencil?
 
-PROOF(the_why_it_MUST_be_true) is what rules; use examples to eradicate blindness.
-    1. **create a proposition** which is free from the defect of having much exceptions.
+PROOF rules...
+the_WHY_it_is_the_way_it_is.
+use examples to eradicate blindness.
+    1. create a proposition(which is free from the defect of having much exceptions).
     2. test the proposition.
     3. repeat.
 
 
 i think i know that_which_is_worth_knowing but i_do_NOT_really_know_it.
-that_which_is_self_evident is full of DANGER. (moodha nammakamu)
+that_which_is_self_evident is full of danger. BEWARE.
+(moodha nammakamu)
 
 whatever good has been "done by me", is done by me in Reality?
 😜😜😜
@@ -186,3 +189,4 @@ THEN is the answer to _how the problem has been fixed by the self?_ NOT signific
     i do not even know what i am trying to do! but i force myself to do it and also punish myself if failure is encountered.
 
     i make up theories but i do not make up tests to test the theories. what i do make instead of tests is self-hate as to why i made the theories!
+    i proceed to fix 1 problem but i start working on fixing a different problem while having forgotten the original problem.
