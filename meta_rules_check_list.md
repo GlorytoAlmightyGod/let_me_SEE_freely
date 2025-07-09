@@ -13,15 +13,17 @@ README.md:
     keep things born out of realizations during my experiences in problems-environments.
     keep things sacred.
     keep things freeing.
+    keep things forbidden to access.
     keep things dirtily classified.
     keep things hidden as well as clear.
     keep things full of truths i have had the opportunity to do the perception of.
     keep things simple.
+    keep things gamified.
+    keep things once.
     keep things small.
 
 read_my_AIM.md
     there is so much to do but i feel paralysed!!! i am not making any progress.
-    even if i am making progress then i come to know how i was doing the perception of pr
-ogress was horribly delusional.
+    even if i am making progress then i come to know how i was doing the perception of progress was horribly delusional.
     i do not want to admit that i do not want to admit.
     i do not think i can know the answer of "why will i not remember it?".
