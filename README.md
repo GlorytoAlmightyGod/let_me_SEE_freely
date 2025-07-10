@@ -1,4 +1,10 @@
-# not required to sharpen the pencil?
+what if,
+what if,
+what if i that truth i know is not true?
+...tatatata...
+
+not required to sharpen the pencil?
+# README_for_my_sorrowfull_self
 
 PROOF(the_why_it_MUST_be_true) is what rules; use examples to eradicate blindness.
     1. **create a proposition** which is free from the defect of having much exceptions.
@@ -47,7 +53,9 @@ a brilliant question is NOT a stupid question?
 
 
 
-
+that_which_can_be_done_by_the_self_in_Reality
+    requires NOT a revision?
+    requires NOT investigation?
 
 
 
@@ -58,13 +66,6 @@ THEN i can think i know ANY thing about it?
 IF i do not know enough,
 THEN do i need to pretend that i allready do?
 
-IF i do not read **_this_** text;
-THEN something bad may happen?
-do i not need to give myself the freedom to know it 3 times?
-am i fearing not being able to stop myself from fearing?
-improving the workings of profit-loss-complex is not known to me?
-it is clear if and only if i can speak it out loud in a way that originates from a self-evident root.
-
 
 is that_which_i_want_to_be_in_Reality NOT that_which_is_worthy_of_being_known_by_the_self?
 IF the problem is fixed by the self,
@@ -72,7 +73,12 @@ THEN is the answer to _how the problem has been fixed by the self?_ NOT signific
 
 
 
-
+in a problems-environment,
+    what is the difference between
+    the way a person endowed with vision behaves VERSUS the way a person endowed with blindness behaves?
+    if i could see how i was not able to see, then am i not still full of blindness?
+    i am only seeing that which i did right... where did i go wrong?
+what does it mean to see all things FOGGY?(take small examples...)
 
 
 
@@ -91,6 +97,7 @@ THEN is the answer to _how the problem has been fixed by the self?_ NOT signific
 **fun_attitudes:**
     it is NOT about "mathematics"; it is about witnessing BEAUTY.
     let me fail in awesome ways!
+    what am i really trying to get done?
     WOW!!! what a weird Creation.
     it is a matter of great good fortune to come to experience this root cause finding!
     the "harder" the problem, greater the opportunity to learn. learning is fun!!!
@@ -103,6 +110,41 @@ THEN is the answer to _how the problem has been fixed by the self?_ NOT signific
     what is so genius, so special about me to have that problem fixed in Reality? it is all just a delusion.
     am i NOT the friend of "machine"? do i want it to execute instructions aimlessly?
     i still do not know the answer of the_WHY_question!
+
+
+
+**real_time_perceptions_in_problems_environment:**
+    from having not a single clue with a fearfull attitude surrounding it's existence to i myself will say "what else is there in it?".
+    how much energy can it take from me after all?
+    good things just take time BUT is it that much?
+
+    IF the chosen way of investigation in a problems-environment is NOT good enough,
+    THEN will i not RE-DOUBT my own correct conclusions with respect to exceptions?
+    am i aware of all the mistakes i am prone to make?
+    will i not MISS-TAKE right for wrong?
+
+    once i know what i am missing to be on the right way, the only thing i can think of is "what was i thinking all this time!";
+    i am also become unable to make sense of the logic that i was thinking as correct.
+    it is weird.
+
+    many problems can be fixed without making my friendly machine do MUCH things; less conditions, less instructions, clear instructions, less exceptions.
+
+
+
+
+# README_for_my_blissfull_self
+
+without having prepared,
+while having no clue,
+i wish to pose as a champion.
+
+IF i do not read **_this_** text;
+THEN something bad may happen?
+do i not need to give myself the freedom to know it 3 times?
+am i fearing not being able to stop myself from fearing?
+improving the workings of profit-loss-complex is not known to me?
+it is clear if and only if i can speak it out loud in a way that originates from a self-evident root.
+
 
 **beliefs_i_cherish:**
     IF i do not know how to do a_certain_thing in Reality;
@@ -136,25 +178,7 @@ THEN is the answer to _how the problem has been fixed by the self?_ NOT signific
     THEN is it NOT possible for me to know what i want to be done?
 
 
-
-**real_time_perceptions_in_problems_environment:**
-    from having not a single clue with a fearfull attitude surrounding it's existence to i myself will say "what else is there in it?".
-    how much energy can it take from me after all?
-    good things just take time BUT is it that much?
-
-    IF the chosen way of investigation in a problems-environment is NOT good enough,
-    THEN will i not RE-DOUBT my own correct conclusions with respect to exceptions?
-    am i aware of all the mistakes i am prone to make?
-    will i not MISS-TAKE right for wrong?
-
-    once i know what i am missing to be on the right way, the only thing i can think of is "what was i thinking all this time!";
-    i am also become unable to make sense of the logic that i was thinking as correct.
-    it is weird.
-
-    many problems can be fixed without making my friendly machine do MUCH things; less conditions, less instructions, clear instructions, less exceptions.
-
-
-**sad_truths_with_respect_to_my_self:**
+**truths_with_respect_to_my_self:**
     i equate let_me_try_to_know with let_me_Father_Up_Can_Know.
     i know that i am doing something wrong. i know what i am doing wrong. i know that i can fix it easily. i do not fix it. i lose faith in something about my own self for some strange reason... 
     the moment i look at an unknown thing, i develop certain beliefs with respect to it. not for good reasons...

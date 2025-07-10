@@ -1,3 +1,4 @@
-g++ -o my_test.out "$@"
-time ./my_test.out < my_test_input
-rm -rf my_test.out
+g++ -o test.out "$@"
+./test.out < test_input
+# time ./test.out < test_input
+rm -rf *.out
