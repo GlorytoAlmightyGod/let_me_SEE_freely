@@ -1,0 +1,93 @@
+
+Section A: Terms & Conditions
+Section B: Secure & Safe Usage Guidelines
+
+Section A
+A. Terms and Conditions
+1. Definitions:
+
+The following words and expressions shall have the corresponding meanings wherever appropriate.
+
+    'Bank' shall mean State Bank of India or any successor or assign of it.
+    'Internet Banking' shall mean the services availed through web-based applications namely OnlineSBI and YONO Web (or) any additional web-based applications launched by the SBI from time to time for facilitating Banking transactions.
+    'Mobile Banking' means the services availed through mobile based application namely YONO, YONOLite (or) any additional mobile based applications launched by the SBI from time to time for facilitating Banking transactions.
+    'Digital Banking' shall mean any or both of the Internet Banking and Mobile Banking services availed by the customers.
+    'Account' shall means an account with the Bank in which a request for availing the Digital Banking Service has been registered or re-registered with the Bank.
+    'Customer' means the holder of an Account in SBI.
+    'MPIN' shall mean the Personal Identification Number (password) for the Digital banking application.
+
+2. Usage of Facility:
+
+By accepting the terms and conditions while registering for the facility, the Customer:
+
+    agrees to use the Digital Banking application for financial and non-financial transactions offered by the Bank from time to time.
+    also irrevocably authorizes the Bank to debit the Accounts which have been enabled for Digital Banking services for all transactions / Services undertaken by using MPIN Or Username and Password or OTP.
+    authorizes the Bank to map the Customer's unique identifier and Mobile device / SIM for the smooth operation of Digital Banking services offered by Bank and to preserve the mapping record (hash value) in its own server and to use such data at its discretion for providing/enhancing further banking/technology products that it may offer.
+    agrees that he/she is aware that Digital Banking services offered by the Bank will enable him/her to transact using MPIN OR username and password or OTP.
+    agrees that the transactions originated using any of the Digital channels are non-retractable as these are instantaneous / real time.
+    understands and explicitly agrees that Bank has the absolute and unfettered right to revise the prescribed ceilings, with respect to amount, number, time, etc for transactions, from time to time which will be binding upon him/her. Onscreen notifications on ceilings / maximum - minimum amount / transaction time etc. will be provided for certain types of transactions.
+    agrees that while the Information Technology Act, 2000 prescribes that a subscriber may authenticate an electronic record by affixing his digital signature or by e-authentication technique using Aadhaar e-KYC services or by any other mode, which has been given legal recognition under the Act, the Bank is authenticating the Customer by using MPIN or any other method decided at the discretion of the Bank which may not be recognized under the IT Act, 2000 for authentication of electronic records and this is acceptable and binding to the Customer and the customer agree to be legally bound by the authentication, transactions, authorizations, validations and / or confirmations undertaken by him through such methods without any liability to the Bank.
+    agrees that Customer is solely responsible for maintenance of the secrecy and confidentiality of the MPIN, username and password without any liability to the Bank.
+    shall ensure that, in order to secure the usage of the app, only his/her biometric is registered in the mobile device where Mobile Banking application is being registered and/or used.
+
+3. Others:
+
+    The instructions of the Customer shall be effected only after authentication under his/her USERNAME / device / SIM binding and MPIN or through any other mode of verification (including biometric) as may be stipulated at the discretion of the Bank.
+    The Customer expressly authorizes the Bank to carry out all requests/transactions purporting to have been received from his/her digital banking applications and authenticated with his/her MPIN or username and password. In case of payment facilities like fund transfer, mobile top up, bill payment, etc. the customer shall be deemed to have expressly authorized the Bank to make the payment when the request is received from him/her.
+    It is the responsibility of the Customer to deregister said applications and/or block access to digital banking immediately in case of theft of mobile phone / laptops, etc.
+
+4. Responsibilities and obligations of the Customer:
+
+    The Customer will be responsible for all transactions, including unauthorized/erroneous/wrong/incorrect/mistaken/false transactions made through the use of his/her digital banking applications, regardless of whether such transactions are in fact entered into or authorized by him/her. The Customer will be responsible for the loss/damage, if any suffered in respect of all such transactions.
+    The Customer shall take all possible steps to ensure that the Application and his/her digital banking devices (like mobile, desktop / laptop etc.,) are not shared with anyone and shall take immediate action to deregister / block digital access, if he /she suspects the misuse of the digital banking applications.
+    The Customer will use the services offered under the facility using the MPIN, username and password or biometric in accordance with the procedure as laid down by the Bank from time to time, including the terms and conditions contained herein.
+    The customer shall keep the digital devices (through which digital banking applications are accessed), MPIN and username and password confidential and will not disclose these to any other person or will not record them in a way that would compromise the confidentiality of the same or the security of the service.
+    It will be the responsibility of the customer to notify the Bank immediately if he /she suspect the misuse of the MPIN and/or username and password. He will also be immediately initiate the necessary steps to change the MPIN and password.
+    If the digital banking device (like mobile phone, laptop etc.,) is lost, the user must immediately take action to deregister app and/or block access to digital banking.
+    The Customer accepts that any valid transaction originating from registered device shall be assumed to have initiated by the Customer and any transaction authorized by the MPIN or username and password or OTP is duly and legally authorized by the customer.
+    As an additional security features, the app in mobile will work in the device which is enabled with device lock. Therefore, it is customers responsibility to keep secrecy of the device lock to prevent unauthorized use.
+
+5. Indemnity:
+
+    In consideration of the Bank providing the facility, the customer agrees to indemnify and hold the Bank harmless against all actions, claims, demands proceedings, loss, damages, costs, charges and expenses which the Bank may at any time incur, sustain, suffer or be put to as a consequence of or arising out of or in connection with any services provided to the Customer pursuant hereto. The customer shall indemnify the Bank for unauthorized access by any third party to any information/instructions/triggers given by the Customer or breach of confidentiality.
+
+6. Governing Law & Jurisdictions:
+
+    The Facility and the terms and conditions of the same are governed by the applicable laws in India.
+    Any dispute or claim pertain to the Facility and /or the terms and conditions herein are subject to the exclusive jurisdictions of competent courts/tribunals/forums in Mumbai and the Customer agrees to such exclusive jurisdictions in Mumbai.
+
+Section B
+B. Secure and Safe Usage Guidelines
+
+Following are the options to Login to the various applications:
+
+    by using Username and Password (OTP additionally required in case of web-based applications)
+    by using a 6-digit numeric MPIN. (Applicable for YONO App only)
+    by biometric – Face ID for IOS and Fingerprint for other OS (Applicable for YONO App / YONOLite
+    by using Registered Mobile Number and Secure Code from YONO app (Applicable for YONO Web only)
+    by using 6-digit Easy PIN (Applicable for YONO Lite app only)
+    OTP can be obtained through Bank’s SBI Secure OTP application for OnlineSBI / YONOLite
+
+    With MPIN, the user will not be required to input his / her Internet Banking Username for log in, as the application will additionally authenticate the user by recognising his / her device/SIM. This device/SIM binding happens during App Registration process. Username and Password created during registration process on any digital banking channel can be used to access any of the other digital banking channels.
+    Having username and password is mandatory for internet banking login. However, in YONO Web, the user will be able to login using his registered mobile number and authenticating with Secure Code received in YONO app. In order to view the Secure Code, authentication will be required in YONO app.
+    Bank uses highly secure encryption mechanism which combines factors such as customer's unique identifier(s) and/or internal mobile device/SIM identifiers and/or login credentials to uniquely identify that it is only the authorised user who is logging in. This cannot be replicated easily.
+    If the MPIN in set in one device, it is only valid in that device. The same MPIN cannot be used in another device. If a user registers himself / herself in any other device, his / her app in the previous device will be deregistered automatically and the MPIN in the first device will become invalid.
+    If the MPIN in set in one device, it is only valid in that device. The same MPIN cannot be used in another device. If a user registers himself / herself in any other device, his / her app in the previous device will be deregistered automatically and the MPIN in the first device will become invalid.
+    MPIN will work only when the device is enabled with device lock features like passcode, pattern lock, biometric verification, etc.
+    In case a user forgets the MPIN, he / she can reset the same from the link ‘Forgot MPIN’. In case a user forgets the password, he / she can reset the same from the option to reset the password on the pre-login screen of internet banking. He / she can also retrieve the username from the option available on the pre-login screen of internet banking.
+    Customer is solely responsible for maintenance of the secrecy and confidentiality of the login credentials (Username / Password / MPIN / Easy PIN) and OTP/Secure Code without any liability to the Bank.
+
+Please ensure the following before logging into Internet Banking
+
+    The URL in your browser address bar begins with "https".
+    The address or status bar displays the padlock symbol.
+    Click the padlock to view and verify the security certificate.
+
+Beware of Phishing attacks
+
+    Phishing is a fraudulent attempt, usually made through email, phone calls, SMS etc seeking your personal and confidential information.
+    State Bank or any of its representative never sends you email/SMS or calls you over phone to get your personal information, password, MPIN, Easy Pin, Secure Code or one time SMS (high security) password. Any such e-mail/SMS or phone call is an attempt to fraudulently withdraw money from your account through Internet Banking or Mobile Application. Never respond to such email/SMS or phone call. Please report immediately on report.phishing@sbi.co.in if you receive any such email/SMS or Phone call. Please lock your user access immediately, if you have accidentally revealed your credentials. Lock option is available in the pre-login screens in Internet Banking and Mobile Applications.
+
+By accepting the Terms & Conditions and Safe and Secure usage guidelines, I indicate my acceptance, hereof.
+
+Acceptance of Terms and Conditions and Safe and Secure Usage guidelines is mandatory. Please click on “ Accept “ to continue with Internet Banking services. If you click “ Cancel “ you will be logged out from the session.

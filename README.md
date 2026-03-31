@@ -114,6 +114,50 @@ am i bound to witness each aim of mine perish right in front of me?
 is not **interesting** a key word with respect to the door of finer details?
 am i incapable of realizing a desire through a carefully crafted plan?
 
+-----------------------------------------------------------
+a_TINY_step : small. easy. simple. BREAK.
+-----------------------------------------------------------
+
+INSIDE SEARCH LIES ALL INTELLIGENCE!
+
+(in basic_operations.h)
+
+for(i=1;i<=MEMORY_POWER;i++){
+    if(the_perception_is_done_of(how_it_can_be_done(that_which_is_wanted_to_be_done_by_the_self_in_Reality[i])) != NULL) {
+
+    }
+}
+
+for(i=1;i<=MEMORY_POWER;i++){
+    for(j=1;j<=MEMORY_POWER;j++){
+        if(that_which_is_wanted_to_be_done_by_the_self_in_Reality[i] == that_which_the_self_can_get_done_in_Reality[j]) {
+            execute(that_which_the_self_can_get_done_in_Reality[j]);
+            break;
+        }
+    }
+}
+
+understanding the WHY is the key.
+we build it in a way that what we call as context is very very very flexible in memory.
+full of properties of things and what the self can and can not do.(perception also)
+using functions as well as loops for the same work-item.
+
+hidden IF-THEN are used to create texts of unhidden IF-THEN. how wonderfull...
+use recursion to my heart's content!!!
+
+
+Reality is the ultimate context.
+(need to keep sentences short. things seem to lose meaning when uttered multiple times; why?)
+context is just a collection of variables...
+    1. perception of vital IF-THEN relationships,
+    2. proper variable(property perception) declaration,
+    3. proper function calling,
+    4. usage of NOT,
+    5. Tao is at play on Tao in a Tao way...(that is why everything is sooo confusing.)
+can take the self a loooong way...
+IF i can see through it,
+THEN it is not fun anymore?
+
 
 
 IF i think it is NOT simple,
