@@ -1,4 +1,4 @@
-i will never achieve great things.
+# i will never achieve great things.
 
 IF i do NOT have ANY thing NEW in me;
 THEN why will i do a NEW thing?
