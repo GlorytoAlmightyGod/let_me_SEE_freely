@@ -1,3 +1,12 @@
+the following are hidden.
+    IMAGINATION
+    PROPOSITION
+    TRUTH
+    WORK-ITEM
+    ABILITY
+    DESIRE
+
+
 it helps to not feel hopeless if some new data structure is created with a wiser way of filtering out data.
 
 how will i learn how to use arrays properly.
@@ -37,10 +46,49 @@ i validate proofs defectively.
 
 i become easily overwhelmed looking at a (mathematical equation)new thing.
 
+i just seek for a way to realize my desire.
+i do not say "there must be a way.".
+
+perception of usefull propositions makes problem interesting.
 
 
+a[i]    :   7   8   6   0   3   1  -2   1
 
+i       :   1   2   3   4   5   6   7   8
 
+array has a beginning.
+array has an end.
+
+2 types of miss-takes i commit in Reality.
+    small. not easy to detect.
+    big. not easy to detect.
+
+search.
+search.
+search.
+IF i search;
+THEN why will i not find it?
++ it does not exist in Reality.
++ it does exist in Reality.
+    - it is beyond the way in which i do perception.
+    - it is within the way in which i do perception.
+        i am not done with the search.
+        i am done with the search.
+            i missed to do the perception because of some miss-take.
+
+i say no way exists when a way exists but i can not do the perception of it.
+
+once the way in which the problem can be fixed in Reality is known,
+    it seems like there is nothing special in it.
+    it seems like it is that_which_the_self_can_get_done_in_Reality.
+    it seems like it can not be possible in any other way.
+    my thinking becomes free with respect to the problem.
+but i am the same person who thought it is impossible before proceeding to look for the solution,
+i am the same person who wondered if a solution can even exist for it.
+
+i try to learn new things in a hurry.
+i know i need to learn but i do not learn.
+when my knowledge is tested, i curse myself for not learning.
 
 
 
@@ -64,6 +112,7 @@ abilities
 7) create functions that take in certain parameters.
 4) take input of variable values.
 5) give output of variable values.
+8) sort created arrays and vectors.
 
 
 

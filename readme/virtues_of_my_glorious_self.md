@@ -1,3 +1,4 @@
+in anger, i commit injustice.
 i do not see what is in front of my own eyes.
     i wish to know that which is worth knowing.
     in hurry as i am.
@@ -21,5 +22,5 @@ i become offended by the word THREAT and seek to prove that i am not afraid of i
 i destroy that which is working for me. that which i depend on. beyond use. then i seek freedom from misery.
 i grow familiar with the wrong things while right things are unreal in my heart.
 
-in a hurry i become unaware of my surroundungs,
+in a hurry i become unaware of my surroundings,
 in a hurry i lose the discrimination between what is significant and what is not significant.

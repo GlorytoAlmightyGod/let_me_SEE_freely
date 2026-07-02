@@ -1,22 +1,25 @@
-# i will never achieve great things...
-why?
-because i am horribly wrong.
-because there is only 1 rule in life.  
-`😜just shut up.😜`
+# i am not doing any thing fancy.
 
-whatever good has been "done by me", is done by me in Reality?
-can i dare to be innocent in this nightmarish_Reality?
+i think i know that_which_is_worth_knowing but,
+i do not know that_which_is_worth_knowing;
+i think it is allright to be this way. i think it is a luxury to know it but not a survival need.
+can i dare to be innocent in this paradoxically_nightmarish_Reality?
+
 why is knowledge the same as self?
     because by doing less,
         by merely trying to see,
         by simply knowing,
-        greater things are realized by the self at will.
+        usefull things are realized by the self at will.
 
 IF the_right_knowledge can help the self fix the_problem_in_Reality easily;
 THEN is not the realer problem to help the self gain access to the_right_knowledge?
 
 i wish to know or not?
 because the problems of various kinds are present in the way i think.
+
+
+let me change my future for the good.
+whatever good has been "done by me", is done by me in Reality?
 
 IF i think it is not simple,
 THEN i can think i know ANY thing about it?
@@ -29,6 +32,12 @@ IF i do not have any thing new in me;
 THEN why will i do a new thing?
 IF i do not do any thing new;
 THEN how can i expect a new Reality?
+
+i will never achieve great things...
+why?
+because i am horribly wrong.
+because there is only 1 rule in life.  
+`😜just shut up.😜`
 
 what seems like the problem worth fixing is the real problem at play?
     "why can the self not get it done in Reality?"
@@ -90,11 +99,6 @@ THEN is the answer to _how the problem has been fixed by the self?_ not signific
 that_which_is_useless is really useless?
 that_which_is_worth_knowing has this strange property of being that_which_is_not_worth_knowing.
 
-IF i do not read _this_ text;
-THEN something bad may happen?
-do i not need to give myself the freedom to know it more than once?
-am i fearing not being able to stop myself from fearing?
-improving the workings of profit-loss-complex is not known to me?
 it is clear if and only if i can write it out in a way that originates from a self-evident root.
 
 
@@ -137,9 +141,6 @@ IF i think improvement is not possible for a certain thing at play;
 THEN maybe i am being right. maybe i am being wrong. maybe i am being right.
 
 
-
-
-
 **fun_attitudes:**
     this is interesting...
     it is not about "mathematics"; it is about witnessing BEAUTY.
@@ -150,7 +151,10 @@ THEN maybe i am being right. maybe i am being wrong. maybe i am being right.
     WOW!!! what a weird Creation.
     it is a matter of great good fortune to come to experience this root cause finding!
     the "harder" the problem, greater the opportunity to learn. learning is fun!!!
-    not sure? try to know it for real. why to guess it?
+    not sure? try to know it for real. why 
+    Choose two distinct vertices u,v∈S that have not been chosen before.
+    Add d(u,v) to the total cost, where d(u,v) is the number of edges on the simple path between u and v.
+    Mark u and v as chosen. to guess it?
     failure is a good news. why? because i get to know "i missed to know that_which_is_worth_knowing.".
     i am getting to know more and more of that_which_is_worth_knowing.😇
     my desire is just to know the answer of "why can i not get the problem fixed?"; it is not to get the problem fixed.
@@ -180,56 +184,10 @@ i wish to pose as a champion.
 
 IF i do not read **_this_** text;
 THEN something bad may happen?
-do i not need to give myself the freedom to know it 3 times?
 am i fearing not being able to stop myself from fearing?
 improving the workings of profit-loss-complex is not known to me?
 it is clear if and only if i can speak it out loud in a way that originates from a self-evident root.
 
-
-**beliefs:**
-    IF i do not know a_certain_thing;
-    THEN it is not possible for me to know it?
-    IF i do not know a_certain_thing;
-    THEN i allready know it?
-    IF i do know a_certain_thing;
-    THEN i can not have faith in "i know it."?
-
-    IF i have not done a_certain_thing allready;
-    THEN it is not possible for me to do it?
-    IF i have done a_certain_thing allready;
-    THEN it is not possible for me to do it?
-
-    IF i do not know how to do a_certain_thing in Reality;
-    THEN it is not possible for me to know how to do it?
-    IF i do not know how to do a_certain_thing in Reality;
-    THEN it is not possible for me to do it?
-    IF i know how to get a_certain_thing done in Reality;
-    THEN it is not possible for me to do it?
-    IF i know how to get a_certain_thing done in Reality;
-    THEN it is allready done by my self in Reality?
-
-
-    IF i start taking it for granted;
-    THEN will i not be able to create it again?
-
-    IF i can not get it done NOW;
-    THEN i can not get it done with respect to Time?
-
-    IF i do not know what i want to be done;
-    THEN it is not possible for me to know what i want to be done?
-
-    IF i wait to do what i want to be done;
-    THEN it is not possible for me to get it done?
-
-    i can not work till i am tired. i need a break for no good reason.
-
-    by fearing to ignore it, have i not ignored it allready?
-
-    it is fun to teach.
-
-i equate let_me_try_to_know with let_me_Father_Up_Can_Know.
-i know that i am doing something wrong. i know what i am doing wrong. i know that i can fix it easily. i do not fix it. i lose faith in something about my own self for some strange reason... 
-the moment i look at an unknown thing, i develop certain beliefs with respect to it. not for good reasons...
 
 ### i am afraid of ...
     knowing that i have been wrong?

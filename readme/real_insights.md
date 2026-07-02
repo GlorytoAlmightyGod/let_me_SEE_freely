@@ -1,9 +1,13 @@
+once i the truth is revealed, i say, "what is there in it? it makes sense. it can not be otherwise.",
+but i can not discover the truth by myself before it is revealed.
+how glorious i am!
+
 it is less about "i was unable to do it.";
 it is more about "i was unable to do the perception of that_which_is_worth_knowing with respect to it.".
 
 miss-takes are committed during the training not during "the real test".
 
-perception of "this is the way in which that can be done!" exposes the want of mine with respect to profit.
+perception of "this is the way in which that can be done!" exposes the desire of mine with respect to profit.
 this in turn creates blindness with respect to other ways in which it can be done.
 
 things seem to lose meaning when uttered multiple times.
@@ -13,13 +17,18 @@ things that i do not know are not things that i can not know.
 IF everything seems right and it does not work right;
 THEN please take care.
 
-i do not want to know that which is worth knowing with respect to the problem but i wish to have the problem be fixed somehow magically.
+i can wonder about the question "how to get this done?".
 
 profit clouds the discrimination of mine between that_which_is_right and that_which_is_not_right.
 
 bad news is good news only.
 
-just keep on knowing "i do not know that_which_is_worth_knowing."... 
+just keep on knowing "i do not know that_which_is_worth_knowing."...
+i keep seeking for a way forward.
+i hope for a way forward.
+i do not claim "there must be a way forward!";
+why?
+because i do not know the existence of such a way.
 
 get naughty.
 
@@ -27,8 +36,13 @@ it is not a clever design;
 it is a proper design.
 
 it is a delusion to think "i have done self-improvement.".
-with knowledge, that_which_is_worth_knowing transforms.
 
+with knowledge, that_which_is_worth_knowing transforms.
+the more you know, the less you are prepared to see (exceptional) things in a new way.
+
+instead of playing with the proposition and seeking the truth,
+i simply say "it may or may not be true. who knows?".
+like a dead man, nothing activates my interest.
 
 imperfect things are closer to Reality than perfect things.
 i use imperfect things, i do not use perfect things; i just worship perfect things beyond use.
@@ -37,42 +51,36 @@ i know, it is a tragedy.
 IF i am on the wrong way;
 THEN eventually i will come to the perception "this is not that which is worth knowing with respect to Reality.".
 
-i do not give myself
-    time to revisit the same idea;
-    time to think before i come to decide to take action;
-    single AIM to focus my attention;
-it is crazy.
 
 it is easy only; but my self makes it "hard" aimlessly.
     how "hard" is it to call Bank Manager whose number is allready available on the mobile device?
     how "hard" is it to go to the Bank on a bike?
     how "hard" is it to search for my clothes and go take a bath?
 
-i think that is not a problem which is a problem; or i do not think about it at all.
-i think that is a problem which is not a problem.
+i think that_which_is_a_problem as not a problem; or i do not think about it at all.
+i think that_which_is_not_a_problem as a problem.
 then i curse myself for being this way but i never give myself time.
 
+proof of a proposition is the same as answer to the question "why is the proposition true in Reality?".
 
+perception of usefull propositions makes problem interesting.
+such perception brings with it the ability to do perception of useless propositions that seem usefull while that_which_is_worth_knowing remains unknown.
 
+i do not want to know that which is worth knowing with respect to the problem but i wish to have the problem be fixed somehow.
+i worship the unknown innocently as if it is magical.
+"maybe there is a magical way of solving this problem which is incapable of being known by my self. who knows?"
+i keep assuming that i do not know enough when i allready know enough. i think some genius like Ayush Malpani Sir must have done in a very awesome way. a way which i am incapable of knowing the working of, much less doing the perception of.
 
+thinking that it is done before it is done is not usefull.
+perception of "it can not be done by me." is not usefull.
+perception of "it can be done by me." is not usefull.
 
+that_which_is_worth_knowing is not just mere knowledge, it is also about how i get to feel in Reality.
 
+it is a shame that i fail to know of the devastating implications of the stories of Scripture and discover a miraculous Reality for myself.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+i think i know but i do not know. that is the problem.
+example : "my problem is just overconfidence."
 
 
 
@@ -88,8 +96,25 @@ then i curse myself for being this way but i never give myself time.
 =========
 about me
 =========
+i punish myself severely for a miss-take that i did not expect i would do.
+IF i do the perception of my own self doing a misstake;
+THEN i desire all innocent beings commit the same misstake in Reality.
 
-i am horribly lost in problems-environment with respect to that_which_is_worth_knowing?
+i do not give myself
+    enough water to drink.
+    single AIM to focus my attention;
+    time to revisit the same idea;
+    time to think before i come to decide to take action;
+    time to learn a new thing;
+    a thinking free from hurry.
+    permission to do something about these ways of mine.
+it is crazy.
+
+i do the right things, but in a wrong way.
+then i proceed to question that i did not do any wrong things.
+all i ever did were the right things.
+
+i am horribly lost in Reality with respect to that_which_is_worth_knowing?
 /*what happens when i revisit a problem i allready failed at. something weird.*/
 what if,
 what if,
@@ -129,15 +154,16 @@ instead of starting to learn and filling the knowledge gaps.
 
 i think using my abilities is fearfull work.
 
-though i know that that_which_is_worth_knowing is not yet known to me,
+though i know "i do not know that_which_is_worth_knowing",
 i think i do know it as everyone around me(those that themselves do not know that they do not know that_which_is_worth_knowing) think "dasharatha knows that_which_is_worth_knowing.".
 
 i think i need a completely fresh mind in order to start learning about a new thing.
 i am afraid of the name itself of the new thing. "heap"
 
-i keep assuming that i do not know enough when i allready know enough. i think some genius like Ayush Malpani Sir must have done in a very awesome way. a way which i am incapable of learning to do the perception of.
+for some strange reason, i reject "harder" problems and choose easier problems.
 
-i choose easier problems to do first. not the "harder" problems.
+without knowing the answer to the question "why it is working the way it is working?", i proceed to teach "LOOK! i know that_which_is_worth_knowing allready.".
+without seeking for any exceptions and spending no time i proceed to claim "i know it completely.".
 
 3. i keep coming to the same realization "i allready knew this was important, still i did not learn it." while i am testing myself out.
 4. i somehow lose faith that i can get it done patiently.
@@ -151,26 +177,47 @@ THEN    IF      i respect his words and do the thing in Reality;
         THEN    IF the same person punishes me because the thing was done by me;
                 THEN what should i do?
 10. i try to figure out how happy my mother will be to know that good news in my life.
+11. i am trying to prove something about myself through solving problems. that i am worthy, or omnipotent or omniscient?
+12. though i know i will not gain any thing worth gaining out of it, i invest my energy in it like a mad man.
+13. i destroy usefull things without like a mad man.
+14. i am a slow learner.
+15. i am aware of "what i am doing is wrong."; still i proceed to do it.
+16. i make vital decisions in a hurry.
+17. i speak without knowing.
+18. though i think i am just making the truth known, deep inside i count myself worthy of attention as i speak.
 
 
 
-========
-Reality
-========
-that_which_is_at_play_for_the_self
-    SELF.
-    Reality.
-    bliss.
-    belief surrounding the bliss.
-    desire.
-    realisation of the desire.
-    way to realisation of the desire.
-    way to way to realisation of the desire.
-    
 
-abilities.
-    seeking a way to realisation of the desire.
-    perception of a way to realisation of the desire.
-    execution of the way to realisation of the desire.
-    decision to execute a way to realisation of the desire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
