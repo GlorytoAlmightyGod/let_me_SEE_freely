@@ -82,7 +82,7 @@ once the way in which the problem can be fixed in Reality is known,
     it seems like there is nothing special in it.
     it seems like it is that_which_the_self_can_get_done_in_Reality.
     it seems like it can not be possible in any other way.
-    my thinking becomes free with respect to the problem.
+    my thinking becomes free with respect to the problem.(zoom out)
 but i am the same person who thought it is impossible before proceeding to look for the solution,
 i am the same person who wondered if a solution can even exist for it.
 

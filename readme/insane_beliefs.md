@@ -1,3 +1,11 @@
+IF the belief is present here;
+THEN it is not an insane_belief.
+        it is just profitable for me to think that it is an insane_belief.
+        that is it.
+
+IF i know a certain thing;
+THEN i can not respect it.
+
 IF i do not like the Reality;
 THEN it is not the Reality.
 
@@ -33,6 +41,13 @@ THEN i am worthy of trust.
 
 IF i have committed an aimless perception in Reality;
 THEN i have completely lost my ability to realize my desire.
+
+IF i am in need;
+THEN God will not provide for me.
+
+IF i do search for a thing;
+THEN the way i choose can never be free from exceptions.
+
 
 it is not possible for me to know that_which_is_worth_knowing with respect to the problem in Reality.
 it is not possible for me to discard hurry in Reality.
@@ -82,37 +97,39 @@ the moment i look at an unknown thing, i develop certain beliefs with respect to
 
 
 
---------------------
+
 aimless perceptions
---------------------
+---
 the problem is that i do aimless perceptions.
 the problem is that the perception "i just did that aimless perception." is also among aimless perceptions.
 the problem is that i fear doing aimless perceptions.
 the problem is that i fear not being able to free myself from aimless perceptions in real-time.
-    i fear failing at what is vital for me.
-    i feel good in vain.
 the problem is that i do the aimless perception "i am free from doing aimless perceptions. look.".
 
-when will that desirable thing happen?
-when will it happen?
-it has still not happened yet.
-it has not happened even now.
-how long will i have to WAIT?
-will this be fruitfull or not?
-
-just because i need to do something immediately does not mean i need to do it in a hurry.
-
-i do glory perception of what i said and i feel good about myself.
-i keep figuring out "what my parents will think of me now that i have done this thing?".
+aimless perceptions are worth preserving within my self. right?
+let me see how i can set free from these aimless perceptions.
+    rehearse all the aimless perceptions that i may make before itself.
+    cultivate knowledge of loss over time.
 
 
++   when will that desirable thing happen?
+    when will it happen?
+    it has still not happened yet.
+    it has not happened even now.
+    how long will i have to wait?
++   will this be fruitfull or not?
++   i do glory perception of what i said and i feel good about myself.
++   i keep figuring out "what my parents will think of me now that i have done this thing?".
++   i fear "IF i do not do this quickly; THEN time will run out.".
++   i perform "profit" perception in real-time.
++   but nobody else is having proof for it.
 
 
-----------------------------
 freedom_from_loss_of_profit
-----------------------------
+---
 i come up with lies to distance myself from profit in real-time but these lies do not work.
 i need something better.
+trying to make the fear disappear. ----> trying to become curious about fear.
 
 terrible excitement just reveals how much faith i have for my aim being impossible to realize and how much i want it.
 

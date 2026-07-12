@@ -92,7 +92,6 @@ example : "my problem is just overconfidence."
 
 
 
-
 =========
 about me
 =========
@@ -165,6 +164,16 @@ for some strange reason, i reject "harder" problems and choose easier problems.
 without knowing the answer to the question "why it is working the way it is working?", i proceed to teach "LOOK! i know that_which_is_worth_knowing allready.".
 without seeking for any exceptions and spending no time i proceed to claim "i know it completely.".
 
+it helps to search for the motivation of a certain action that i commit in Reality.
+why?
+because the things i do are rendered useless because of self-contradictions in motivations.
+
+i miss to think many things.
+i forget the things i do not miss to think.
+
+IF i repeat a usefull thing;
+THEN i do it aimlessly.
+
 3. i keep coming to the same realization "i allready knew this was important, still i did not learn it." while i am testing myself out.
 4. i somehow lose faith that i can get it done patiently.
 5. i write it in accurately detailed way and then somehow motivation to read disappears.. EXAMPLE : writing // recheck versus writing // recheck initialization
@@ -185,7 +194,6 @@ THEN    IF      i respect his words and do the thing in Reality;
 16. i make vital decisions in a hurry.
 17. i speak without knowing.
 18. though i think i am just making the truth known, deep inside i count myself worthy of attention as i speak.
-
 
 
 

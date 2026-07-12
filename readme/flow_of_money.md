@@ -1,9 +1,13 @@
+"oh no i will not have enough money in the future!"     ---->       "What can I do today to improve my future?"
+"that money is gone forever."                           ---->       "that money has served purpose of itself."
+
 types:
     incoming
         hard-earned-wealth
         gifts-from-well-wishers
     outgoing
         basic-survival-expenses
+            water
             food
                 vegetables
                 fruits
@@ -19,11 +23,14 @@ types:
                     filterer
                 gas-stove
                 lighter
-            water
-            vehicle
+            travel
+                tickets
+                rapido
+                vehicle
                 petrol
                 servicing
             electric
+                internet recharge
                 mobile
                 laptop
                 lights
@@ -77,20 +84,21 @@ types:
                 oil
             housing
                 rent
-
         guilt-free-selfish-fund
         investments
         health-care
             insurance
             dentist
             medicines
-            psychiatrist
-        minimum-balance-for-bank-accounts
+            equipment
+            tests
+            consultation
+        
         gifts-to-innocent-beings-fund
     staying
-        safe-emergency fund                  (6+ month basic-survival-expenses)
+        safe-emergency fund                  (6+ month basic-survival-expenses)(minimum-balance-for-bank-accounts)
 
-for any time period,
+for any chosen time period,
     incoming - outgoing = staying
 
 
@@ -121,3 +129,4 @@ loss of wealth leads to suffering.
 suffering from a problem makes the self desire a newer Reality.
 the self desiring a newer Reality starts wanting wealth.
 the self wanting wealth immediately seeks the knowledge of that_which_the_self_can_get_done_in_Reality with respect to the problem.
+

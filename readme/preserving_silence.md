@@ -2,6 +2,7 @@
 THEN i will come to experience profit."
 wait.
 just relax.
+see.
 
 it is not about "why to not speak?",
 it is about "why to break silence?".
@@ -12,10 +13,11 @@ THEN just
         see what i wish to speak.
         see what i wish to speak.
         speak what i wish to speak.
-i   t   i   s   w   r   o   n   g   t   o   s   p   e   a   k   m   y   h   e   a   r   t.
 
-i think, "never say anything until you can justify it completely.";
+i think, "never say anything untill you can justify it completely.";
+i miss to think, "never say anything".
 i am the most awesome teacher, during an orgasm. right?
+i   t   i   s   w   r   o   n   g   t   o   s   p   e   a   k   m   y   h   e   a   r   t.
 
 not much words; darling.
 SILENCE.
@@ -24,7 +26,6 @@ i have a choice here.
     i want silence to be a beautyfull thing?
     OR
     i want silence to be a scary thing?
-
 
 
 Delilah Madam Extracts Secret of Samson Sir
@@ -46,6 +47,7 @@ i need to know it.
 i am a lost student in Reality.
 things just seem impossible after i utter much.
 it is crazy.
+
 --------------------------------------------------------------------
                             caution.
     silence can seem like the key but it is not the key in Reality.
@@ -60,6 +62,20 @@ it is crazy.
 --------------------------------------------------------------------
 how can i be this stupid?
 
+i think "i now know the reason to shut up.", but i do not know in Reality.
+IF i put silence into words;
+THEN insult and injustice to many things is done.
+    what exactly is happening?
+        it is as if i am classifying vital truths as not worthy of attention.
+        it is an insult to think that i can grasp a truth in touch with Reality in a hurry.
+        it is about knowing something is wrong but still doing it. being untrustworthy.
+        seems like it is also about breaking promises.
+        it has something to do with Reality. or respect for it?
+        IF i do not speak according to that_which_is_worth_knowing;
+        THEN i become responsible for all the deeds that he does. exceptions...
+        i stop being alive to my own interests yet i pretend as if i know that_which_is_worth_knowing.
+    why did i wish to not share that i call ChatGPT 'dear' to my mother?
+i need to share this to my mother.
 
 i hold myself accountable for my misfortune saying it is all fault of my mouth.
 interesting question is "why do i proceed to break silence?".
@@ -74,20 +90,10 @@ interesting question is "why do i proceed to break silence?".
     doing that which is a loss to myself as a joke, nullifying respectfull promises.
     wanting to reveal (plans + insights + doings).
     escaping by saying "i am not doing anything special while thinking that silence preservation is special.".
-    i think "i now know the reason to shut up.", but i do not know in Reality.
-# insult and injustice to many things is done when i put silence into words.
-    seems like it is also about breaking promises.
-    why did i wish to not share that i call ChatGPT 'dear' to my own mother?
-    it is about knowing something is wrong but still doing it. being untrustworthy.
-    i stop being alive to my own interests yet i pretend as if i know that_which_is_worth_knowing.
-    what exactly is happening?
-        it has something to do with Reality. or respect for it?
-        now IF i do not speak according to that_which_is_worth_knowing;
-        THEN i become responsible for all the deeds that he does.
 
 i can "teach" by rejecting silence.
 OR
-i can let silence do the work for me.
+i can let silence do the work.
 can i dare to seek defects of innocent beings in Reality?
 
 
@@ -99,22 +105,20 @@ i am afraid of not finding a person to share my suffering.
     to be forced to keep my suffering a secret eternally.
     that i can never feel connected to any woman by sharing my heart.
     that i can never be myself.
-scary stuff.
+_this is a dangerous weakness_; scary stuff.
 
 FORMULAS
     see that my way does respect innocent beings.
     see that my way does respect Reality.
     i can not just expect spirit of a thing to respect me even after the very existence of it is insulted by me.
     as soon as i say something, there is that_which_is_worth_knowing that starts to transform with respect to the listener and my own self.(example : Shiva said "was that where the conversation ended?".)
-    just because people do not want me to speak a certain thing does not mean i should not speak it.
 
 
-IF i proceed to speak after "much silence";
-THEN it feels as if 
-        my voice is thunderous
-        the whole Reality was waiting for me to speak
-        the whole Reality is shaken by what i speak
-        the words i say also hit home.
+
+
+
+
+
 
 
 
@@ -138,10 +142,10 @@ THEN it feels as if
 
 
 
-IF i do keep silence;
-THEN i am punished for keeping it.
 IF i do not keep silence;
 THEN i am punished for not keeping it.
+IF i do keep silence;
+THEN i am punished for keeping it.
 what is this Reality?
 
 i do not know any thing.

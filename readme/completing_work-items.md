@@ -1,13 +1,40 @@
 let me start doing good work.
 
+while doing A, i think about doing B.
+while doing B, i think about doing A.
+
+IF i am to revisit a work-item;
+THEN i give way to frustration.
+
+
+1. to decide it to be a work-item_worth_completing.
+        to seek good ways to see the work-item.
+2. the work-item itself.
+the impressions i form with respect to work-items are wonderfull.
+
+
 without God i can do nothing.
 
-i think about doing A while doing B,
-i think about doing B while doing A.
 
-the impressions i form with respect to work-items are wonderfull.
-1. to seek good ways to see the work-item.
-2. the work-item itself.
+
+"IF i can do a certain thing for my own good;
+THEN i can not do it for my own good.
+IF i can not do a certain thing for my own good;
+THEN i can do it for my own good."
+
+
+
+
+
+just because i need to do something immediately does not mean i need to do it in a hurry.
+
+i do not let myself feel accomplished after i complete the work-item.
+i fear i will share it with my Mother.
+IF i wish to take a break;
+THEN there is nothing i can do to engage myself in the work-item.
+i grow afraid of work-items in vain.
+i myself am making work-items impossible unnecessarily.
+i keep knowing what i allready know. that i can get it done.
 
 IF i am given 1 more work-item to do;
 THEN i fear that the work-items i am currently pursuing will never reach completion.

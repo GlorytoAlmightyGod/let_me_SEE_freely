@@ -1,5 +1,7 @@
 # i am not doing any thing fancy.
 
+in real-time, my body itself is not under my power, much less my mind.
+
 i think i know that_which_is_worth_knowing but,
 i do not know that_which_is_worth_knowing;
 i think it is allright to be this way. i think it is a luxury to know it but not a survival need.
@@ -235,34 +237,6 @@ it is clear if and only if i can speak it out loud in a way that originates from
 
 
 
-HIDDEN
-    TRUTH
-    PROPOSITION
-    IMAGINATION (perception_of_the_way_in_which_to_realize_the_DESIRE)
-    ABILITY
-    WORK-ITEM
-    DESIRE
-
-PROPERTY
-BOUNDARY
-FIX
-PROBLEM
-PERCEPTION
-CONDITION
-SEEKING
-
-PROOF
-EXCEPTION
-TRANSFORMATION
-CONCLUSION
-EXPECTATION
-ASSUMPTION
-HONEST_DOUBT
-
-
-conclusions are created using proofs.
-a proposition brings with it a need(problem) for proof.
-proof has the property of escaping the perception.
 
 
 understanding the WHY is the key.
@@ -496,7 +470,6 @@ why do i think "IF i can complete this THEN i will be able to share that good ne
 why do i make myself say "not now" by doing automated suggestions to engage in a profitable pursuit and then fear i may not feel like doing it? i do not know.
 why do i think "IF i share what has been done profitably by me, THEN i will no longer be able to continue doing it."? i do not know.
 why do i fear doing something profitable to my own self? i do not know.
-why do i perform "profit" perception in real-time; it is not like i think such a behaviour is profitable? i do not know.
 why do i plead the system "please be correct" after having done my work-item? i do not know.
 why do i try to figure out "when will this end? WHEN will i get this done?" instead of focusing on the work-item in front of me? i do not know.
 why do i scream "BATIKINCHAARU" upon me seeing correct answer status for a Multiple Choice Question after submitting my answer? i do not know.
@@ -508,7 +481,6 @@ why do i not seek to delight in peacefull WAITING? i do not know.
 why do i have a belief in "i CAN NEVER work on multiple AIMs at any moment. or else i may not be able to complete ANY of my AIMs"? i do not know.
 why do i think "i do not know how to do it, SOOO i simply can not do it!"? i do not know.
 why do i not desire to use METAPHORS in order to transmit ideas clearly? i do not know.
-why do i have a belief in "i can not do ANY thing with respect to a given feeling in real-time"? i do not know.
 why do i have a belief in "the answer to the why qestion i have come to ask is unknowable!"? i do not know.
 why do i confuse that which is worth focusing on with that which is not worth focusing on? i do not know.
 why do i confuse that which is worth not focusing on with that which is worth focusing on? i do not know.
