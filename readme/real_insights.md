@@ -82,8 +82,9 @@ it is a shame that i fail to know of the devastating implications of the stories
 i think i know but i do not know. that is the problem.
 example : "my problem is just overconfidence."
 
+aimless truth is the enemy of usefull truth.
 
-
+when i see 2 beings procreate, i lose faith in goodness of humanity. if this is not evil then what is?
 
 
 

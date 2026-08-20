@@ -130,3 +130,19 @@ suffering from a problem makes the self desire a newer Reality.
 the self desiring a newer Reality starts wanting wealth.
 the self wanting wealth immediately seeks the knowledge of that_which_the_self_can_get_done_in_Reality with respect to the problem.
 
+
+
+
+price of a thing should not be dependent on the needs of personal life of the seller.
+    this is crazy but it is not crazy.
+    it should depend on how much energy was invested in creating it, how much the buyer has, how much the buyer needs it, what the buyer seeks to do with it.
+
+
+
+
+
+
+
+
+
+

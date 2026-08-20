@@ -1,4 +1,5 @@
-# i am not doing any thing fancy.
+# i have allready done enough.
+i am not doing anything fancy here.
 
 in real-time, my body itself is not under my power, much less my mind.
 
@@ -113,9 +114,9 @@ i will not learn for a certain unknown reason.
 i fear it like a mad man.
 nothing is particularly wrong with me. remember Mrunalini ma'am with respect to VS-code?
 
-dealing with AIM that is "significant"?
-    • take the time to build a_small_real_specific_easy_imperfect_AIM.
-    • create a simple plan in order to realize the_AIM.
+dealing with work-item that is "significant"?
+    • take the time to build a_small_real_specific_easy_imperfect_work-item.
+    • create a simple plan in order to realize the_work-item.
     • complete the plan.
     • repeat.
 

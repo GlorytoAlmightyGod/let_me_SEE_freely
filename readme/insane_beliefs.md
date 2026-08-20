@@ -3,6 +3,10 @@ THEN it is not an insane_belief.
         it is just profitable for me to think that it is an insane_belief.
         that is it.
 
+IF i do an insane_perception;
+THEN i can not free myself from it.
+    it is normal and allright. i have no need to know that_which_is_worth_knowing.
+
 IF i know a certain thing;
 THEN i can not respect it.
 
@@ -39,7 +43,7 @@ THEN i am worthy of attention.
 IF an innocent being is paying me attention;
 THEN i am worthy of trust.
 
-IF i have committed an aimless perception in Reality;
+IF i have committed an insane perception in Reality;
 THEN i have completely lost my ability to realize my desire.
 
 IF i am in need;
@@ -98,17 +102,17 @@ the moment i look at an unknown thing, i develop certain beliefs with respect to
 
 
 
-aimless perceptions
+insane perceptions
 ---
-the problem is that i do aimless perceptions.
-the problem is that the perception "i just did that aimless perception." is also among aimless perceptions.
-the problem is that i fear doing aimless perceptions.
-the problem is that i fear not being able to free myself from aimless perceptions in real-time.
-the problem is that i do the aimless perception "i am free from doing aimless perceptions. look.".
+the problem is that i do insane perceptions.
+the problem is that the perception "i just did that insane perception." is also among insane perceptions.
+the problem is that i fear not being able to free myself from insane perceptions in real-time.
+the problem is that i fear doing insane perceptions.
+the problem is that i do the insane perception "i am free from doing insane perceptions. look.".
 
-aimless perceptions are worth preserving within my self. right?
-let me see how i can set free from these aimless perceptions.
-    rehearse all the aimless perceptions that i may make before itself.
+insane perceptions are worth preserving within my self. right?
+let me see how i can set free from these insane perceptions.
+    rehearse all the insane perceptions that i may make before itself.
     cultivate knowledge of loss over time.
 
 
@@ -120,18 +124,15 @@ let me see how i can set free from these aimless perceptions.
 +   will this be fruitfull or not?
 +   i do glory perception of what i said and i feel good about myself.
 +   i keep figuring out "what my parents will think of me now that i have done this thing?".
-+   i fear "IF i do not do this quickly; THEN time will run out.".
++   "IF i do not do this quickly; THEN time will run out.".
 +   i perform "profit" perception in real-time.
 +   but nobody else is having proof for it.
++   i come up with lies to distance myself from profit in real-time but these lies do not work.
 
 
 freedom_from_loss_of_profit
 ---
-i come up with lies to distance myself from profit in real-time but these lies do not work.
-i need something better.
 trying to make the fear disappear. ----> trying to become curious about fear.
-
-terrible excitement just reveals how much faith i have for my aim being impossible to realize and how much i want it.
 
 EXAMPLEs
     i only have this much time, oh no.
